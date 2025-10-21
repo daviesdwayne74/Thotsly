@@ -1,0 +1,76 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1760986109255,
+      "tag": "0000_open_agent_zero",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1760986156007,
+      "tag": "0001_wandering_the_call",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1760986816200,
+      "tag": "0002_massive_talisman",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1760994469459,
+      "tag": "0003_windy_red_ghost",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1760994893688,
+      "tag": "0004_nosy_texas_twister",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1760995081754,
+      "tag": "0005_kind_grey_gargoyle",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1760995148125,
+      "tag": "0006_dear_nekra",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1760995601537,
+      "tag": "0007_sloppy_spencer_smythe",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "5",
+      "when": 1760999078236,
+      "tag": "0008_robust_spectrum",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "5",
+      "when": 1761063734766,
+      "tag": "0009_loving_luckman",
+      "breakpoints": true
+    }
+  ]
+}
